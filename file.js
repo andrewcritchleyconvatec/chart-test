@@ -198,7 +198,7 @@
 
                     ctx.fillStyle = vm.backgroundColor;
                     helpers.drawRoundedRectangle(ctx, leftX, vm.y, vm.width, vm.height, vm.cornerRadius);
-                    ctx.fillText("HELLO");
+          
                     ctx.fill();
                 },
 
